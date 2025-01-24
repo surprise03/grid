@@ -16,7 +16,7 @@
     
 }
 .item{
-    background-color: blue;
+    background-image: linear-gradient(rgb(20, 20, 218),rgb(220, 198, 198));
     
 }
 header{
@@ -50,7 +50,7 @@ header{
 }
 
 .num{
-    background-color: aqua;
+    background-image: linear-gradient(to bottom right,red,rgb(217, 233, 42));
 }
 .box1{
     grid-column: 2/4;
@@ -131,7 +131,7 @@ grid-template-columns: 1fr 1fr 1fr 1fr;
     
 }
 .item8{
-    background-color: chocolate;
+    background-image: linear-gradient(rgb(20, 20, 218),rgb(220, 198, 198));
 }
 
 
@@ -166,7 +166,7 @@ grid-template-columns: 1fr 1fr 1fr 1fr;
         
     }
     .item{
-        background-color: blue;
+        background-image: linear-gradient(rgb(20, 20, 218),rgb(220, 198, 198));
         
     }
     header{
